@@ -1,2 +1,8 @@
 What is automation testing?
-Automation testing applies automation processes and tools for testing. Additionally, it is a practice where technicians develop automated testing processes for different systems and tools. In software testing, for example, many companies need people to test their software for different use cases. Instead of having a person go through the program many times using different criteria, a skilled automation specialist can design a software program that can run the different simulations in a fraction of the time, and at a marginal cost.
+Automation testing applies automation processes and tools for testing. Additionally, it is a practice where technicians develop automated testing processes for different systems and tools. In software testing, for example, many companies need people to test their software for different use cases. Instead of having a person go through the program many times using different criteria, a skilled automation specialist can design a software program that can run the different simulations in a fraction of the
+
+hat is automation testing?
+Automation testing applies automation processes and tools for testing. Additionahat is automation testing?
+Automation testing applies automation processes and tools for testing. Additionahat is automation testing?
+Automation testing applies automation processes and tools for testing. Additionahat is automation testing?
+Automation testing applies automation processes and tools for testing. Additiona time, and at a marginal cost.
